@@ -37,6 +37,7 @@ The application will be available at `http://localhost:3000`
 ## Workshop Details
 
 For more information about this workshop, including detailed instructions, examples, and resources, please visit:
+
 [Saros DLMM SDK](https://github.com/saros-xyz/dlmm-saros-sdk)
 
 [Youtube link](https://www.youtube.com/watch?v=4gkEHqVbw4w)

@@ -1,6 +1,21 @@
 # Saros-Bin-Distribution-Viewer
 
-This is built using the workshop template repository availavle at [Intro to DLMM SDK](https://saros-playground.vercel.app/workshops)
+This is built using the workshop template repository availavle at [Intro to DLMM SDK](https://saros-playground.vercel.app/workshops
+
+## Workshop Details
+
+For more information about this workshop, including detailed instructions, examples, and resources, please visit:
+
+[Saros DLMM SDK](https://github.com/saros-xyz/dlmm-saros-sdk)
+
+[Youtube link](https://www.youtube.com/watch?v=4gkEHqVbw4w)
+
+[Template link](https://saros-playground.vercel.app/workshops)
+
+<img width="1891" height="954" alt="image" src="https://github.com/user-attachments/assets/1f6e2580-8c6e-4d0a-b3a6-e2dcb09bca44" />
+
+<img width="1131" height="917" alt="image" src="https://github.com/user-attachments/assets/296f9a9c-ab5b-400e-aae9-185608d19a4b" />
+
 
 ## Getting Started
 
@@ -32,19 +47,6 @@ To start the development server:
 
 The application will be available at `http://localhost:3000`
 
-
-
-## Workshop Details
-
-For more information about this workshop, including detailed instructions, examples, and resources, please visit:
-
-[Saros DLMM SDK](https://github.com/saros-xyz/dlmm-saros-sdk)
-
-[Youtube link](https://www.youtube.com/watch?v=4gkEHqVbw4w)
-
-[Template link](https://saros-playground.vercel.app/workshops)
-
-**https://saros-playground.vercel.app/workshops**
 
 ## Project Structure
 
